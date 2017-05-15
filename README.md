@@ -1,7 +1,7 @@
 # Introduction
 A simple Student CRUD project to represent the integrations of Spring, PrimeFaces and HSQLDB. 
 
-The view tier (JSF) interacts JSF controllers directly. Controllers injects and uses Spring based services and uses database indirectly through Spring services. Database connections are carried out by using Spring Repository Beans.
+The view tier (HTML/JSF) interacts JSF controllers directly. Controllers inject and use Spring based services, reach database indirectly through Spring services. Database connections are performed by using Spring Repository Beans.
 
 # Running the Application
 Execute following commands to run the application:

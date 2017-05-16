@@ -5,11 +5,13 @@ The view tier (HTML/JSF) interacts JSF controllers directly. Controllers inject 
 
 # Running the Application
 Execute following commands to run the application:
-- mvn clear
-- mvn compile
-- mvn package
-- mvn test (executes unit and integration tests)
-- mvn jetty:run (runs application on embedded jetty server)
+```
+mvn clear
+mvn compile
+mvn package
+mvn test (executes unit and integration tests)
+mvn jetty:run (runs application on embedded jetty server)
+```
 
 # Notes
 - The maven is configured to run on Jetty server.

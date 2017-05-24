@@ -4,7 +4,7 @@ A simple Student CRUD project to represent the integrations of Spring, PrimeFace
 The view tier (HTML/JSF) interacts JSF controllers directly. Controllers inject and use Spring based services, reach database indirectly through Spring services. Database connections are performed by using Spring Repository Beans.
 
 # Running the Application
-Execute following commands to run the application:
+Following maven commands can be run (you can execute mvn jetty:run directly without compile and package statements):
 ```
 mvn clear
 mvn compile

@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.7</jdk.version>
         <hsqldb.version>2.3.2</hsqldb.version>
-        <spring.version>4.3.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <servlet.version>3.1.0</servlet.version>
         <primefaces.version>6.0</primefaces.version>
         <jsf.version>2.2.14</jsf.version>

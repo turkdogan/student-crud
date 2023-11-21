@@ -16,7 +16,7 @@
         <hsqldb.version>2.3.2</hsqldb.version>
         <spring.version>5.3.18</spring.version>
         <servlet.version>3.1.0</servlet.version>
-        <primefaces.version>6.0</primefaces.version>
+        <primefaces.version>8.0</primefaces.version>
         <jsf.version>2.2.14</jsf.version>
     </properties>
 
